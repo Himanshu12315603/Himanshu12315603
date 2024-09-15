@@ -40,7 +40,7 @@ Hello! I'm [Your Name], a passionate developer with a love for creating innovati
 ## Contact
 
 Feel free to reach out to me via:
-- *Email:* Your Email
+- *Email:* himanshukumar7349820018@gmail.com
 - *LinkedIn:* Your LinkedIn Profile
 - *GitHub:* Your GitHub Profile
 
