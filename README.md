@@ -1,9 +1,47 @@
-# Hello, World! 👋
-Hey everyone, I'm Himanshu, and I will be a software engineer at Google in New York City!
+# My Portfolio
 
-I make videos on YouTube about coding interviews and anything else related to programming and tech. I hope my content helps you land the job of your dreams and become a better engineer!
+Welcome to my portfolio repository! This repository contains all the projects and work that I have done. Feel free to explore and reach out if you have any questions or suggestions.
 
-If you need help with interview prep check out the interviewing service I created to help teach people,
+## Table of Contents
 
-Free Software Engineer newsletter
-Twitter Instagram LinkedIn
+- About Me
+- Projects
+- Skills
+- Contact
+
+## About Me
+
+Hello! I'm [Your Name], a passionate developer with a love for creating innovative solutions. I specialize in [Your Specialization] and have experience in [Your Experience]. This portfolio showcases some of my best work.
+
+## Projects
+
+### Project 1: [Project Name]
+- *Description:* A brief description of the project.
+- *Technologies Used:* List of technologies used.
+- *Link:* Project Link
+
+### Project 2: [Project Name]
+- *Description:* A brief description of the project.
+- *Technologies Used:* List of technologies used.
+- *Link:* Project Link
+
+### Project 3: [Project Name]
+- *Description:* A brief description of the project.
+- *Technologies Used:* List of technologies used.
+- *Link:* Project Link
+
+## Skills
+
+- *Programming Languages:* List of programming languages.
+- *Frameworks:* List of frameworks.
+- *Tools:* List of tools.
+- *Other Skills:* Any other relevant skills.
+
+## Contact
+
+Feel free to reach out to me via:
+- *Email:* Your Email
+- *LinkedIn:* Your LinkedIn Profile
+- *GitHub:* Your GitHub Profile
+
+Thank you for visiting my portfolio!
