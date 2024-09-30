@@ -17,4 +17,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
-- [LinkedIn](your-linkedin-profile) | [Email](mailto:your-email)
+- [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-4522b2297/) | [Email](mailto:your-email)
