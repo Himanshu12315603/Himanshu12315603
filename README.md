@@ -7,7 +7,7 @@
 - ✍️ **Open Source Contributor**, sharing my work with the community.
 
 ### 🔧 Tech Stack
-- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![MySQL Database Diagram](./docs/database_diagram.png)
+- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Frameworks:** [List of frameworks]
 - **Tools:**  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
