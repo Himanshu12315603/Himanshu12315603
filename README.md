@@ -12,7 +12,8 @@
 
 - **Frameworks:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 - **Tools:**  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=linux&logoColor=white)
+
 
 
 ### 📊 GitHub Stats
