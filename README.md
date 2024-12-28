@@ -22,5 +22,11 @@
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu&show_icons=true&theme=radical)
 
+
+
 ### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-4522b2297/) | [Email](https://www.himanshukumar7349820018@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-4522b2297/) |
+-
+-
+-
+-     [Email](https://www.himanshukumar7349820018@gmail.com)
